@@ -44,7 +44,7 @@ Customization
 
     Deployment: In the GitHub Actions workflow, replace the deployment step (Deploy) with the appropriate commands for deploying your application. This could involve deploying to a server, a cloud platform, or any other hosting service.
 
-JUST FOR DEMONSTRATION:  This demo will not build and deploy because there is no source or server url.
+JUST FOR DEMONSTRATION:  This demo will echo "Deploying the application ..."
 
 License
 
